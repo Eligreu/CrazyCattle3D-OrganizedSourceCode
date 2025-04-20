@@ -1,5 +1,10 @@
 # CrazyCattle3D-SourceCode
 
+CrazyCattle3D Source Code buts its more easy to mod it! (i guess)
+
+Confused on how to mod it?
+Check the tutorial i made on my yt channel (Eligreu) 
+
 An Organized CrazyCattle3D Source Code
       made by Eligreu
   Original CrazyCattle3D 
@@ -9,6 +14,3 @@ An Organized CrazyCattle3D Source Code
 I used GDRETOOLS to decompile Original CrazyCattle3D
 i just made it more easy to create new levels and stuff like that
 if you know a bit of godot engine and gdscript, it will be more easier to make new levels!
-
-I made an tutorial of how to make an Modded CrazyCattle3D in my youtube channel (Eligreu)!
-check it out!
